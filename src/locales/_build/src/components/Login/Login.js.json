@@ -1,0 +1,50 @@
+{
+  "Message Inbox": {
+    "origin": [
+      [
+        "src/components/Login/Login.js",
+        79
+      ]
+    ]
+  },
+  "UserName": {
+    "origin": [
+      [
+        "src/components/Login/Login.js",
+        89
+      ]
+    ]
+  },
+  "Password": {
+    "origin": [
+      [
+        "src/components/Login/Login.js",
+        106
+      ]
+    ]
+  },
+  "forgotText": {
+    "origin": [
+      [
+        "src/components/Login/Login.js",
+        119
+      ]
+    ]
+  },
+  "signIn": {
+    "origin": [
+      [
+        "src/components/Login/Login.js",
+        128
+      ]
+    ]
+  },
+  "createAcc": {
+    "origin": [
+      [
+        "src/components/Login/Login.js",
+        137
+      ]
+    ]
+  }
+}

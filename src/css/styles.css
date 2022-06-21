@@ -1,0 +1,62 @@
+.square {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.underline {
+  border-bottom: 1px solid black;
+}
+
+.signIn {
+  background-color: #007aff;
+  height: 30px;
+  font-size: 17;
+  text-align: 'center';
+  width: 100%;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
+
+.createAccount {
+  font-size: 14px;
+  margin-top: 10px;
+  width: 100%;
+  text-align: center;
+  color: #007aff;
+}
+
+.marginb {
+  margin-bottom: 10px;
+}
+
+.errorMsg {
+  color: red;
+  font-size: 10px;
+}
+
+.forgotText {
+  color: #007aff;
+  font-size: 14px;
+  margin-bottom: 50px;
+}
+
+.curPointer {
+  cursor: pointer;
+}
+
+.listItems {
+  display: flex;
+  width: 75%;
+  font-size: 14px;
+  justify-content: space-between;
+}
+
+.activeLan {
+  background-color: #007aff;
+}
+
+.homePage {
+  font-size: 16px;
+}
